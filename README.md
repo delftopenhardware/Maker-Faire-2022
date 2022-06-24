@@ -16,5 +16,5 @@ BOM
 total price: 280euro
 
 ![Single](media/single.jpg?raw=true "Single")
-![During event](media/during-event.jpg?raw=true "During event")
-![Soldering](media/soldering.jpg?raw=true "Soldering")
+![During event](media/during-event.jpeg?raw=true "During event")
+![Soldering](media/soldering.JPG?raw=true "Soldering")
